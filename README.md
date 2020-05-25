@@ -1,2 +1,2 @@
 # CourseraLearnings
-course completed in Coursera
+Courses completed in Coursera
